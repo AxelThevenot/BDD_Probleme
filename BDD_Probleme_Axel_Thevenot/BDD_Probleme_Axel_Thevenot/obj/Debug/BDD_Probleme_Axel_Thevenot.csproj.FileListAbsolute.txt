@@ -1,0 +1,7 @@
+c:\users\axel\documents\visual studio 2015\Projects\BDD_Probleme_Axel_Thevenot\BDD_Probleme_Axel_Thevenot\bin\Debug\BDD_Probleme_Axel_Thevenot.exe.config
+c:\users\axel\documents\visual studio 2015\Projects\BDD_Probleme_Axel_Thevenot\BDD_Probleme_Axel_Thevenot\bin\Debug\BDD_Probleme_Axel_Thevenot.exe
+c:\users\axel\documents\visual studio 2015\Projects\BDD_Probleme_Axel_Thevenot\BDD_Probleme_Axel_Thevenot\bin\Debug\BDD_Probleme_Axel_Thevenot.pdb
+c:\users\axel\documents\visual studio 2015\Projects\BDD_Probleme_Axel_Thevenot\BDD_Probleme_Axel_Thevenot\obj\Debug\BDD_Probleme_Axel_Thevenot.csprojResolveAssemblyReference.cache
+c:\users\axel\documents\visual studio 2015\Projects\BDD_Probleme_Axel_Thevenot\BDD_Probleme_Axel_Thevenot\obj\Debug\BDD_Probleme_Axel_Thevenot.exe
+c:\users\axel\documents\visual studio 2015\Projects\BDD_Probleme_Axel_Thevenot\BDD_Probleme_Axel_Thevenot\obj\Debug\BDD_Probleme_Axel_Thevenot.pdb
+C:\Users\Axel\Documents\Visual Studio 2015\Projects\BDD_Probleme_Axel_Thevenot\BDD_Probleme_Axel_Thevenot\bin\Debug\MySql.Data.dll
